@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KIOSKWindowControl.Service.Ticket;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -97,6 +98,15 @@ namespace KIOSKWindowControl
                 return;
             }
             #endregion
+
+             /*######################################################################个人代码########################################################################*/
+            if (reqHeader.ToUpper().IndexOf("/API/TICKET/GETBOOKINGID")!=-1) //判断请求的接口是否是/API/Ticket/GetBookingID
+            {
+                GetBookingIDService getBookingIDService = new GetBookingIDService();
+                getBookingIDService.GetBookingID(reqHeader, clientInfo, client);
+                return;
+            }
+            /*######################################################################################################################################################*/
 
             #region 与数据库A-B建立连接
             try
