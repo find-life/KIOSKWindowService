@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\WebAgent\WebAgent\bin\Debug\WebAgent.dll
+C:\Users\Administrator\Desktop\WebAgent\WebAgent\bin\Debug\WebAgent.pdb
+C:\Users\Administrator\Desktop\WebAgent\WebAgent\obj\Debug\WebAgent.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebAgent\WebAgent\obj\Debug\WebAgent.dll
+C:\Users\Administrator\Desktop\WebAgent\WebAgent\obj\Debug\WebAgent.pdb

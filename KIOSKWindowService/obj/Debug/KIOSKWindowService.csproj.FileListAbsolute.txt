@@ -1,0 +1,75 @@
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe.config
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.pdb
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.KIOSKService.resources
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.exe
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.pdb
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowService\bin\Debug\WebAgent.dll
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe.config
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.pdb
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\WebAgent.dll
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.KIOSKService.resources
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.exe
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.pdb
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe.config
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.pdb
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\WebAgent.dll
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csprojResolveAssemblyReference.cache
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.KIOSKService.resources
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.ProjectInstaller.resources
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csproj.GenerateResource.Cache
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.exe
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.pdb
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe.config
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.pdb
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\WebAgent.dll
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.KIOSKService.resources
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.ProjectInstaller.resources
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csproj.GenerateResource.Cache
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.exe
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.pdb
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe.config
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.pdb
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\bin\Debug\WebAgent.dll
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.KIOSKService.resources
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.ProjectInstaller.resources
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csproj.GenerateResource.Cache
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.exe
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.pdb
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csprojResolveAssemblyReference.cache
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe.config
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.pdb
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\bin\Debug\WebAgent.dll
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.KIOSKService.resources
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.ProjectInstaller.resources
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csproj.GenerateResource.Cache
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.exe
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.pdb
+D:\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe.config
+D:\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe
+D:\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.pdb
+D:\KIOSKWindowService\KIOSKWindowService\bin\Debug\WebAgent.dll
+D:\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.KIOSKService.resources
+D:\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.ProjectInstaller.resources
+D:\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csproj.GenerateResource.Cache
+D:\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.exe
+D:\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.pdb
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe.config
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.exe
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\bin\Debug\KIOSKWindowService.pdb
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\bin\Debug\WebAgent.dll
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.KIOSKService.resources
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.ProjectInstaller.resources
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.exe
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.pdb
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowService\obj\Debug\KIOSKWindowService.csprojResolveAssemblyReference.cache

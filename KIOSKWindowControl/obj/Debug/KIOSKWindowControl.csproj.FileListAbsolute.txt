@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe.config
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.pdb
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.exe
+C:\Users\Administrator\Desktop\2015-06-25\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.pdb
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe.config
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.pdb
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.exe
+C:\Users\Administrator\Desktop\2015-06-26\window数据服务\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.pdb
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe.config
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.exe
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.pdb
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.pdb
+D:\work-cmc\新建文件夹 (2)\Items\完整\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.csprojResolveAssemblyReference.cache
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe.config
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.pdb
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.exe
+C:\Users\HH\Desktop\window数据服务-1\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.pdb
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe.config
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.pdb
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.exe
+C:\Users\HH\Desktop\window数据服务-1\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.pdb
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe.config
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.pdb
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.exe
+D:\work-cmc\新建文件夹 (2)\Items\完整\Window数据代理服务\源码\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.pdb
+D:\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe.config
+D:\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe
+D:\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.pdb
+D:\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.exe
+D:\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.pdb
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe.config
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.exe
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.pdb
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.exe
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowControl\bin\Debug\KIOSKWindowControl.pdb
+D:\visual studio 2013\Projects\KIOSKWindowService\KIOSKWindowControl\obj\Debug\KIOSKWindowControl.csprojResolveAssemblyReference.cache
